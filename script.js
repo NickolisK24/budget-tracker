@@ -14,7 +14,7 @@ const incomeEl = document.getElementById('income');
 const expensesEl = document.getElementById('expenses');
 const darkModeToggle = document.getElementById('dark-mode-toggle');
 const expenseChartCanvas = document.getElementById('expenseChart');
-
+ 
 // ==== Accessibility: Live region for announcements ====
 let liveRegion = document.getElementById('live-region');
 if (!liveRegion) {

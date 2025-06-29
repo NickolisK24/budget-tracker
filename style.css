@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
   transition: background 0.3s, color 0.3s;
 }
-
+ 
 .container {
   max-width: 600px;
   margin: 2rem auto;
